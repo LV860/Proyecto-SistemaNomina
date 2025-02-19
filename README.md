@@ -14,7 +14,7 @@ El objetivo de este proyecto es desarrollar una aplicación en Java que permita 
 2. Instalar un entorno de desarrollo compatible (Eclipse, IntelliJ IDEA o VS Code con extensión para Java).
 3. Clonar este repositorio:
    ```bash
-   git clone [https://github.com/usuario/sistema-nomina.git](https://github.com/LV860/Proyecto-SistemaNomina.git)
+   git clone https://github.com/LV860/Proyecto-SistemaNomina.git
    cd sistema-nomina
    ```
 ### ▶️ Ejecución del programa:
