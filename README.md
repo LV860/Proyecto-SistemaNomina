@@ -5,7 +5,7 @@ El objetivo de este proyecto es desarrollar una aplicación en Java que permita 
 ## Autores:
 -Leonardo Velázquez Colin
 -Juan Carlos Canon Cardenas
-.Juan David Torres Chaparro
+-Juan David Torres Chaparro
 
 ## 🚀 Cómo ejecutar los programas:
 
