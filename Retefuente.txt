@@ -1,0 +1,16 @@
+Nombre: Andres Rincon
+Tipo: Profesor
+Sueldo base: 2500000.0
+Valor de Rete Fuente: 450000.0
+Nombre: Berenice Suarez
+Tipo: Empleado
+Sueldo base: 5000000.0
+Valor de Rete Fuente: 900000.0
+Nombre: Alejandro Sierra
+Tipo: Profesor
+Sueldo base: 1500000.0
+Valor de Rete Fuente: 270000.0
+Nombre: Diana Bustamante
+Tipo: Empleado
+Sueldo base: 2000000.0
+Valor de Rete Fuente: 360000.0
