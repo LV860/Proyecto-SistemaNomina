@@ -21,8 +21,9 @@ El objetivo de este proyecto es desarrollar una aplicación en Java que permita 
 
 Si ejecutas directamente con **Java**:
 ```bash
-javac -d bin src/com/empresa/*.java
-java -cp bin com.empresa.Main
+javac -d bin src/proyectoFinal/programacionAvanzada/*.java
+java -cp bin proyectoFinal.programacionAvanzada.Main
+
 ```
 
 
